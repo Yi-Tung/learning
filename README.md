@@ -6,4 +6,4 @@
 
 ## food is very good
 
-124
+* empty file deleted successfully
