@@ -6,6 +6,8 @@
 
 ## all goals
 
-* empty file deleted successfully
+* commit from other branch
 
-* try to rename the commit message
+* rename the commit message
+
+* deal with conflict
