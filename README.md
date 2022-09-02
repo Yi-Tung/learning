@@ -4,7 +4,7 @@
 
 ###### wanna to be proficient
 
-## food is very good
+## the text is meant to cause the conflict
 
 * empty file deleted successfully
 
