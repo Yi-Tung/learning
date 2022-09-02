@@ -1,6 +1,6 @@
 # **The project is used to practice the git operations**
 
-## just for funny
+## of course includes branching operations
 
 ###### wanna to be proficient
 
