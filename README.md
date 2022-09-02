@@ -4,7 +4,7 @@
 
 ###### wanna to be proficient
 
-## the text is meant to cause the conflict
+## all goals
 
 * empty file deleted successfully
 
