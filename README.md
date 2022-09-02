@@ -1,4 +1,4 @@
-# **Initial**
+# **The project is used to practice the git operations**
 
 ## just for funny
 
